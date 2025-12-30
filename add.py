@@ -7,4 +7,4 @@ password=input("Enter the Password: ")
 if username==valid_username and password==valid_password:
     print("Login Successful!")
 else:
-    print("Login failed")
+    print("Login fail")
